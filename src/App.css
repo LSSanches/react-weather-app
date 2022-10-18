@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  font-family: "Nunito", sans-serif;
+  display: block;
+  margin: 40px 400px;
+  padding: 15px 30px;
+  border: 1px solid;
+  border-radius: 4px;
 }
 
 .App-logo {
@@ -14,8 +20,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: lightblue;
+  min-height: 30vh;
   display: flex;
   flex-direction: column;
   align-items: center;
